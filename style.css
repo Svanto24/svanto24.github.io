@@ -1,0 +1,32 @@
+body {
+    background-image: url('topography.webp');
+}
+
+main {
+    padding: 10%;
+}
+
+.top-panel {
+    background-color: #333333;  /* Dark grey background */
+    color: #ff0099;  /* White text */
+    height: 60px;  /* Panel height */
+    align-items: center;  /* Center items vertically */
+    padding: 0 20px;  /* Padding on the left and right */
+    box-sizing: border-box;  /* Include padding in total height */
+}
+
+h2 {
+    text-align: center;
+}
+
+.purple-text {
+    color:#ff0099;
+}
+
+#logo {
+    float: left;
+}
+
+.nav-text {
+    float: right;
+}
